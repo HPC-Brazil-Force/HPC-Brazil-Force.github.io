@@ -6,8 +6,8 @@ export default defineConfig({
 
   // --- Branding ---
   logo: {
-    light: 'assets/images/docmd-logo-dark.png',
-    dark: 'assets/images/docmd-logo-light.png',
+    light: 'assets/images/logo-dark.png',
+    dark: 'assets/images/logo-light.png',
     alt: 'HPC Brazil Force Logo',
     href: '/',
   },
@@ -37,7 +37,7 @@ export default defineConfig({
     },
     footer: {
       style: 'minimal', // 'minimal' or 'complete'
-      content: '© ' + new Date().getFullYear() + ' HPC BRazil Force.',
+      content: '© ' + new Date().getFullYear() + ' HPC Brazil Force.',
       branding: true    // Config for "Built with docmd" badge
     }
   },
@@ -95,7 +95,5 @@ export default defineConfig({
   // --- Edit Link ---
   editLink: {
     enabled: false,
-    baseUrl: 'https://github.com/USERNAME/REPO/edit/main/docs',
-    text: 'Edit this page'
   }
 });

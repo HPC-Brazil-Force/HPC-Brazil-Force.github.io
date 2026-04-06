@@ -1,4 +1,8 @@
 # Tips and Tricks for HPC Competitions
+<!-- See the DocMD documentation on https://docs.docmd.io/content/ -->
+::: callout warning "Under Construction!"
+We are currently working hard on this page! :construction:
+:::
 
 - Having an extra monitor is really good to visualize the team's overall progess!
 - All travel tips may apply! 
